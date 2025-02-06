@@ -27,5 +27,7 @@ If you want to clone the repository :
 git clone https://github.com/azzedev/Projet-note.git
 cd Projet-note
 
+⚠️ If your computer isn't powerfull comment the last jupyter section (100 try) ⚠️
+
 
 
